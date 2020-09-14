@@ -1,0 +1,15 @@
+{
+  "name": "test",
+  "version": "0.0.1",
+  "description": "",
+  "author": "",
+  "private": true,
+  "license": "UNLICENSED",
+  "scripts": {
+  },
+  "dependencies": {
+    "koa": "*"
+  },
+  "devDependencies": {
+  }
+}
